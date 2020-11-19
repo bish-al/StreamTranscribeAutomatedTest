@@ -14,5 +14,8 @@
 4. Edit cypress.env.json file with correct StreamTranscribe Admin User name and Password
 
 ### Now you should be able to launch Cypress and run all Test 
-5. npx cypress open
-6. Click on > Run All Integration specs
+5. Open Cypress from Terminal  
+> npx cypress open
+
+6. On Cypress App Click on
+> Run All Integration specs
