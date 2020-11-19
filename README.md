@@ -1,0 +1,2 @@
+# StreamTranscribeAutomatedTest
+ Test
