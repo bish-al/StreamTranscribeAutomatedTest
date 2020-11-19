@@ -1,4 +1,4 @@
-# StreamTranscribeAutomatedTest
+# Stream Transcribe Automated Test Using Cypress
  
 
 ## Quick Installation Guide
