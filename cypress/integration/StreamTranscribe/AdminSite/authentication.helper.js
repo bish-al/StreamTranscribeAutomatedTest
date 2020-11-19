@@ -5,7 +5,6 @@ module.exports = {
 
 
 logout: function(){
-	test
 
 	cy.get('.nav-item > .btn') //logout button
 		.should('contain', 'Sign out')
